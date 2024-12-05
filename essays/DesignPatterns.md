@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/Bootstrap.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/ObserverPatternExample.webp">
 
 ## My experience with Bootstrap 5 
 
