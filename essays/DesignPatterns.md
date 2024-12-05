@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The Symphony of Design Patterns"
 # All dates must be YYYY-MM-DD format!
-date: 2024-10-10
+date: 2024-12-5
 published: true
 labels:
   - Software Engineering
