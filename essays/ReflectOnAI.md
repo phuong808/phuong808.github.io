@@ -87,9 +87,12 @@ I would say AI is really good at helping students start on their homework becaus
 
 ## Future Considerations
 
+My recommendation for this class moving on is that the practice wods be able to use AI and the real in-class WODs not being able to use AI. This is really important because it will force students to understand the concepts which will prepare them for the final project. 
+
 
 
 ## Conclusion
 
+Overall AI is really powerful and knowing it’s strength and limitations is crucial towards leveraging it to help you grow and become smarter and more efficient. 
 
 
