@@ -3,15 +3,16 @@ layout: project
 type: project
 image: img/calculator-gradient-square-icon-vector-8304808.png 
 title: "StudyBuddy"
-date: 2024-03-12
+date: 2024-12-16
 published: true
 labels:
-  - Java
+  - React
+  - Javascript
 summary: "My final project for ICS 314."
 ---
 
 
-In this project I gained experience with handling stack and the errors that could potentially come up such as stack overflow. Utilizing my knowlegde of operands and operators, I successfully implement the program to work on post-fix user input.
+For my final project, my group created a web application called Study Buddy that connects UHM students to study. This application is tailored towards helping students preparing for finals. My contribution for this project is that I helped created the calendar
 
-Here is the source code for the program:
+
 
