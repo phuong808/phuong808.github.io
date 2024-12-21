@@ -8,7 +8,7 @@ published: true
 labels:
   - React
   - Javascript
-summary: "My final project for ICS 314."
+summary: "My final project for ICS 314"
 ---
 
 
