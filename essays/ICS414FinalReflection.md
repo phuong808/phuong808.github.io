@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/ObserverPatternExample.webp">
+<img width="600px" class="rounded float-start pe-4" src="../CI:CD.png">
 
 
 
