@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Reflection on ICS 414 Software Engineering and the Pantry Party Project"
 # All dates must be YYYY-MM-DD format!
-date: 2024-12-5
+date: 2025-12-19
 published: true
 labels:
   - Software Engineering
