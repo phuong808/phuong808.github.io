@@ -10,8 +10,6 @@ labels:
   - Learning
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../CI_CD.png">
-
 
 
 ICS 414 is probably one of the most relevant and important courses in my computer science degree here at University of Hawaii at Manoa because it bridges the gap between theory knowledge and real world software development practices. Although we did not go over all the modules in class, we did assignments related to Agile Project Management, Unit Testing, Acceptance Testing, Continuous Integration, and the IDPM Review. Our group project was named Pantry Party, a software designed to keep track of inventory within different pantries to reduce food waste and efficiently plan out grocery trips which saves time and money. Working on Pantry Party required teamwork, planning, testing, iterating, and this has allowed me to gain valuable experience and reflect on how structured software engineering practices shape both the product and the developer's experience. 
